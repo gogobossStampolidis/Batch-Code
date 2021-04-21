@@ -8,14 +8,14 @@ Gotta say im very stuck to it. I know people will say boring you can do nothing 
 And i dont care if your going to say ew its garbage.
 
 # Currently Active Projects
-ERROR GENERATOR
-SPAMMER 
-NOTIFICATION BUBBLE CREATOR
+1. ERROR GENERATOR
+2. SPAMMER 
+3. NOTIFICATION BUBBLE CREATOR
 
 # On Stantby
-OSB2
-OTHER
+1. OSB2
+2. OTHER
 
 # Social Media
 
-https://www.youtube.com/channel/UCNdRwxusWdQraFg7hmZUQ-Q
+1. https://www.youtube.com/channel/UCNdRwxusWdQraFg7hmZUQ-Q
