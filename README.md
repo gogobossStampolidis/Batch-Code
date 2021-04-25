@@ -9,7 +9,7 @@ And i dont care if your going to say ew its garbage.
 
 # Currently Active Projects
 1. ERROR GENERATOR
-2. SPAMMER 
+2. TEXT SPAMMER 
 3. NOTIFICATION BUBBLE CREATOR
 
 # On Stantby
