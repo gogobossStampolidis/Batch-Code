@@ -12,9 +12,13 @@ And i dont care if your going to say ew its garbage.
 2. TEXT SPAMMER 
 3. NOTIFICATION BUBBLE CREATOR
 
-# On Stantby
+# On Stantby For Upload
 1. OSB2
 2. OTHER
+
+# Currently Working
+1. cmdFileCoder
+
 
 # Social Media
 
